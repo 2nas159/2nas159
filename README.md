@@ -73,20 +73,6 @@ drwxr-xr-x  tools/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2nas159&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)](https://github.com/2nas159)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=2nas159&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/2nas159)
-
-[![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=2nas159&show_icons=true&theme=github_dark&border_color=30363d&icon_color=58a6ff)](https://github.com/2nas159)
-
-</div>
-
----
-
-## `$ cat trophies.txt`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=2nas159&theme=onedark&no-frame=true&row=1)](https://github.com/2nas159)
-
 </div>
 
 ---
