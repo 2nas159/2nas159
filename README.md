@@ -40,28 +40,28 @@ drwxr-xr-x  frontend/
     ├── next.js           ████████████████████  legendary  
     ├── typescript        ███████████████░░░░░  strong
     ├── tailwindcss       ████████████████████  legendary
-    └── sass/bootstrap    ██████████████░░░░░░  solid
+    └── sass/bootstrap    ████████████████░░░░  strong
 
 drwxr-xr-x  backend/
-    ├── node.js           ████████████████████  legendary
-    ├── express.js        ███████████████████░  very strong
+    ├── node.js           █████████████░░░░░░░  solid
+    ├── express.js        ████████████░░░░░░░░  solid
     ├── nest.js           ████████████░░░░░░░░  solid
     └── php               ██████████░░░░░░░░░░  comfortable
 
 drwxr-xr-x  databases/
-    ├── postgresql        ████████████████░░░░  strong
-    ├── mongodb           ██████████████░░░░░░  solid
+    ├── postgresql        █████████████░░░░░░░  solid
+    ├── mongodb           ████████████████░░░░  strong
     ├── mysql             █████████████░░░░░░░  solid
-    └── redis             ████████████░░░░░░░░  comfortable
+    └── redis             ██████████░░░░░░░░░░  learning
 
 drwxr-xr-x  devops/
-    ├── docker            ██████████████░░░░░░  solid
+    ├── docker            ███████████░░░░░░░░░  learning
     └── aws               ███████████░░░░░░░░░  learning
 
 drwxr-xr-x  tools/
-    ├── git               ████████████████████  legendary
+    ├── git               ██████████████░░░░░░  solid
     ├── figma             ██████████████░░░░░░  solid
-    ├── postman           ████████████████░░░░  strong
+    ├── postman           ███████████░░░░░░░░░  comfortable
     └── photoshop         ███████████░░░░░░░░░  comfortable
 ```
 
